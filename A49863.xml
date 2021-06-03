@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons offered in order to the passing an act of Parliament against imprisonment by arrests upon the writs of capias, bils [sic] of Middlesex &amp; latitats, out-lawries, and vexatious dilatory writs of error as now practiced</title>
+         </titleStmt>
+         <extent>Approx. 40KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49863</idno><idno type="EEBO-CITATION">12696792</idno>
+  <idno type="VID">65889</idno>
+  <idno type="EEBO-PROQUEST">2240977611</idno>
+  
+            <idno type="STC">Wing L781</idno>
+            <idno type="STC">ESTC R32460</idno>
+            <idno type="OCLC">12696792</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65889)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1529:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons offered in order to the passing an act of Parliament against imprisonment by arrests upon the writs of capias, bils [sic] of Middlesex &amp; latitats, out-lawries, and vexatious dilatory writs of error as now practiced</title>
+                  <author>Leach, William.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l :</pubPlace>
+                  <date>1661?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Leach by Wing.</note>
+                  <note>Caption title. T.p. lacking?</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>At head of title: To the Kings Most Excellent Majesty and the Lords and Commons now assembled in Parliament.</note>
+                  <note>Imperfect: pages stained and torn with loss of print; best copy available for photographing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Law --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:65889:1"/>
+            <pb n="1" facs="tcp:65889:1"/>
+            <head>
+               <hi>To the KINGS most Excellent Majesty, And the Lords and Commons now assembled in Parliament</hi> Reasons offered in order to the passing an Act of Parliament against Imprisonment by Arrests upon the Writs of <hi>Capias,</hi> Bils of <hi>Middle<g ref="char:EOLhyphen"/>sex</hi> &amp; <hi>Latitats, Outlawries,</hi> and vexatious, dilatory Writs of Error as novv practised.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL Pleas are either <hi>Placita Coronae,</hi>
+               <note place="margin">Mirror. cap. 1. Sect. 4. Stamf. pl. cor. fol. 1. <hi>Cooke</hi> 2. In<g ref="char:EOLhyphen"/>stit. fol. 22.</note> otherwise called <hi>Criminalia;</hi> or <hi>Com<g ref="char:EOLhyphen"/>munia,</hi> otherwise called <hi>Civilia.</hi>
+            </p>
+            <p>In all criminal causes, whereto the King was alwayes a party, the bodies of men at the Common Law, were subject to Arrests, and Imprison<g ref="char:EOLhyphen"/>ments: So where the Action was <hi>vi &amp; Armis,</hi> a <hi>Capias</hi> Lay in Process,<note place="margin">Sir <hi>Will. Her<g ref="char:EOLhyphen"/>berts</hi> case, c. 3. Rept. <hi>Cookes</hi> 2 Instit. f. 394.</note> and in such case a <hi>Capias</hi> Lay after judgement, the King might have a <hi>Capias pro fine;</hi> And where a man was a Debtor, or Accomptant to the King, His Body, Goods, and Lands were liable to the execution of the King.</p>
+            <p>Mr. <hi>Kitchen</hi> saith,<note place="margin">
+                  <hi>Kitchen</hi> retorn. Brev. f. 4. tit. Com. Bauc.</note> That by the Ancient Common Law of the Land, the Process in Common Pleas was Sum<g ref="char:EOLhyphen"/>mons, Attachment; and Distresse infinite; the <hi>Distrin<g ref="char:EOLhyphen"/>gas</hi> being successively distant fifteen dayes one from an<g ref="char:EOLhyphen"/>other.</p>
+            <pb n="1" facs="tcp:65889:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:65889:3"/>
+            <p>
+               <note place="margin">Sir <hi>Will. Her<g ref="char:EOLhyphen"/>berts</hi> Case 3. Rept. <hi>Cookes</hi> 2. In<g ref="char:EOLhyphen"/>stit. fol. 394.</note>At the Common Law, where a Subject recovered a judgement for Debt or Damages, he could not (except in some particular cases) take the Body of the Defen<g ref="char:EOLhyphen"/>dant in Execution, or his Lands, But his Goods and Chat<g ref="char:EOLhyphen"/>tels, and the profits of his Lands; For which purpose; The Law gave two several Writs, one a <hi>Levari facias</hi> whereby the Sheriff was commanded <hi>Quod de terris &amp; Ca<g ref="char:EOLhyphen"/>tallis levari faciat,</hi> &amp;c. And the other a <hi>Fieri facias,</hi> which was onely, <hi>De bonis &amp; Catallis.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Cookes</hi> 2. <hi>Instit.</hi> ibid.</note>This being the Ancient Common Law of the Land, That the Body should not be taken in Execution for Debt or Damages, unless it were in special cases; The Lord <hi>Cooke</hi> saith, That the reason thereof was, That the person should be at Liberty, not onely to follow his af<g ref="char:EOLhyphen"/>faires and business; but should be ready to serve the King, and the Country when need should require.</p>
+            <p>
+               <note place="margin">
+                  <hi>Magna Charta.</hi> cap. 29.</note>
+               <hi>Magna Charta</hi> confirmes the Law and usage in this par<g ref="char:EOLhyphen"/>ticular, <hi>Chap.</hi> 29. which was made in the 9<seg rend="sup">th</seg>. year of <hi>H.</hi> 3. which establisheth, <hi>Quod nullus liber homo capietur, aut im<g ref="char:EOLhyphen"/>prisonetur,</hi> &amp;c. <hi>nisi per judicium parium suorum, vel per legem terrae.</hi>
+            </p>
+            <p>The first Act of Parliament, That made the person liable to an Arrest in Common Pleas, was <hi>Marlbridge cap.</hi> 23.<note place="margin">
+                  <hi>Marlbridge.</hi> cap. 23.</note> made 25. <hi>H.</hi> 3. Whereby a <hi>Capias</hi> was given in Accompt, if the Accomptant had not Lands, whereby to be di<g ref="char:EOLhyphen"/>strained.</p>
+            <p>
+               <note place="margin">
+                  <hi>Cook</hi> 2. Instit. fol. 143.</note>The mischief before this Statute (saith the Lord <hi>Cook</hi>) was, That the Accomptants, (seeking <hi>Subterfugies</hi>) did withdraw themselves, and became Vagrant, flying to secret places, sometimes into Forrein Counties, and had no Lands or Tenements, whereby they might be distrained, so as the Lords were (in a manner) remediless.</p>
+            <p>
+               <note place="margin">
+                  <hi>Westminst.</hi> 2. cap. 11. <hi>Cook</hi> 2. Instit. fol. 380.</note>By <hi>Westminster,</hi> 2. <hi>cap.</hi> 11. made in the 13. year of <hi>Edw.</hi> 1. <hi>Exigent</hi> is given against Accomptants, as Bayliffs, and Re<g ref="char:EOLhyphen"/>ceivers, but not against <hi>Guardians</hi> in Soccage, as the Lord <hi>Cook</hi> saith, so might such Accomptants be commit<g ref="char:EOLhyphen"/>ted
+<pb n="3" facs="tcp:65889:3"/> to prison, by Auditors, being found in Arr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>There was a mischief amongst Merchants and<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men, for want of a more speedy recovery of their<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then the Common Law gave, by reason Merc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Tradesmen could not trade without ready mo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Merchants Strangers were enforced to stay he<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> then their Trading required, for recovery of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> And therefore the Statute of <hi>Acton Burnel,</hi> wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 11<seg rend="sup">th</seg>. of <hi>Edw.</hi> the 1. whereby a Statute Merchant<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sed; And the Body of the Cognizor, made liab<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> moveables were not sufficient, whereupon to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Debt; And afterwards the Statute <hi>de Mercatoribu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 13<seg rend="sup">th</seg>. of <hi>Edw.</hi> 1. adds further strength to this<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> makes the Body, Goods, and Lands of the Cogr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in a Statute Merchant; These two Laws were<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for the more speedy recovery of Debts betw<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>chants.</p>
+            <p>The next Statute was, the 25th. <hi>Edw.</hi> 3. <hi>cap</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gives the like Process in Actions of Debt, as i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and in Detinue of Cattel, and taking of Beasts.</p>
+            <p>By the 19th. of <hi>H.</hi> 7. <hi>cap.</hi> 9, like Process wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Actions one the Case; as in Actions of Trespass, o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Kings-Bench, or Common Pleas.</p>
+            <p>By the 23th. of <hi>H.</hi> 8. <hi>cap.</hi> 14. like Process in eve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of <hi>Annuity</hi> and <hi>Covenant</hi> is given, as in Debt.</p>
+            <p>Thus by degrees Mens Persons by several Act<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>liament made in the Raigns of several Kings<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>liable to Arrests and Imprisonments: in Common<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as namely Actions of Debt Accompt, Detinue, T<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Annuity, upon the Case Covenant.</p>
+            <p>It is said in Sir <hi>William Herberts</hi> Case 3<seg rend="sup">d</seg> R<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Argument upon this Subject, That the Com<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> founded upon the perfection of <hi>Reason,</hi> And<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be many great important <hi>Reasons,</hi> Why the Anci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mon Law should be again restored in this poin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>Not to insist upon that, which the Lord <hi>Co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:65889:4"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ischief,</hi> that introduced the <hi>Capias</hi> upon the said <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>te of <hi>Marlebridge,</hi> which was the first Statute made <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch Process; Which was because Accomptants with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hemselves out of the power of the Lords, And <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re the Lords obtained a <hi>Capias</hi> to take them, where <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ld find them, to bring them to an Accompt; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he Accomptants withdrawing themselves was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eason for obtaining a <hi>Capias,</hi> if this Process make <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urs and Accomptants more to obscure, and with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> themselves, so as they dare not appear to follow <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sinesse, or manage their Estates to the best advan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ereby to enable themselves to pay their Debts for <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>heriffes,</hi> Bayliffs, Sergeants &amp;c. who lye in waite <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>: It may seem a good <hi>Reason</hi> for taking away that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> For when a Statute is made to remedy a <hi>Mischiefe,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Mischiefe</hi> is encreased by it, That may be a Ground <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e away that Statute, as well as to make it.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>evances,</hi> which the Act of the 25<seg rend="sup">th</seg> of <hi>Edw.</hi> 3. and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s (on which the Writts of <hi>Capias</hi> &amp;c. are ground<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> introduced upon the People and Subjects of this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re such; That they languish to utter Ruine in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ution thereof, as daily appears by these ensuing <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Committed upon <hi>Arrests</hi> by <hi>Capas, Bills</hi> of <hi>Mid<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, Latitats &amp;c.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>st men are Arrested oft times for pretended great <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hen in truth the persons Arrested may owe nothing; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> violence offered is upon <hi>Spleen, Revenge,</hi> or <hi>Policy:</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> persons thus Arrested, (whether the Actions be <hi>Real <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>igned,</hi>) if worth a 1000 <hi>l.</hi> more or lesse, when commit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rison, are suddenly reduced to nothing by the un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> apacity of <hi>Jaylers;</hi> by which imprisonment, the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sustain the losse of Credit, exposed to <hi>Cheats <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pression,</hi> by pretended friends, tennants, Servants <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whom not? bereft of all endeavours and imploy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>esides the losse of <hi>Health, Separated</hi> from their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dren, &amp; Familes, and what else is dear to any man;
+<pb n="5" facs="tcp:65889:4"/> left onely to be buried a live, to be tormented with the Debaucheries of a Prison, and their own discontents; by which it appears this weapon (at the pleasure of any man to use) doth devoure and rob the Kingdome of as able and active Persons to serve their Country in Peace and War, in any Condition whatsoever, as any other living in it, by destroying thousands of them in holes and Dungeons to satisfy private interest; to the great and unheard of op<g ref="char:EOLhyphen"/>pression and ruine of the good People and Subjects of this Kingdome.</p>
+            <p>Secondly if the Arrest be in a Corporation, if a <milestone type="tcpmilestone" unit="unspecified" n="2"/> Stranger, he must there lye in prison,<note place="margin">This ruins most men, but is loss of cre<g ref="char:EOLhyphen"/>dit to all; be<g ref="char:EOLhyphen"/>sides if it be remote from <hi>Lodon,</hi> it may cost 50. or 60. <hi>l.</hi>
+               </note> if not bailed by free<g ref="char:EOLhyphen"/>men of that Corporation; if the Person so Arrested will not there lye in Prison, He must remove himself by <hi>Habe<g ref="char:EOLhyphen"/>as Corpus,</hi> by which charge, and fees to <hi>Jaylers, Sheriffs, Bayliffs, Sergeants, Keepers, Waiters &amp;c.</hi> increasing in a large proportion, the Debtor becomes greatly if not altogether disabled for the payment of his just Debts.</p>
+            <p>Thirdly, if the Prisoner Arrested be removed by <hi>Habeas <milestone type="tcpmilestone" unit="unspecified" n="3"/> Corpus,</hi> and brought up before a Judge, and be not there able to put in Bayle, the Prisoner is then sent to the Pri<g ref="char:EOLhyphen"/>son of the <hi>Kings-Bench,</hi> or the <hi>Fleet.</hi>
+            </p>
+            <p>If to the <hi>Kings-Bench,</hi>
+               <note place="margin">If the Arrest be made after <hi>Trinity</hi> Term, the party need not declare till <hi>Easter</hi> Term follow<g ref="char:EOLhyphen"/>ing.</note> then must he lye three termes there before the party that Arrested him, by the Rules of that Court, is bound to declare upon what Cause of Acti<g ref="char:EOLhyphen"/>on the party so Arrested is imprisoned, and upon a new Action then entred may continue the Prisoner in Prison three terms longer without a Declaration, and so from three terms to three terms as long as the Creditour pleas<g ref="char:EOLhyphen"/>eth, to the destruction of the Person thus causlessely and maliciously Arrested.</p>
+            <p>If Committed to the <hi>Fleet,</hi> there can be no Declaration filed against the Prisoner unlesse (by <hi>Habeas Corpus</hi>) he be brought to the Common Pleas Barr first there to be charged;<note place="margin">Contrary to the Common Law and <hi>Magnà Charta</hi> cap. 29.</note> And whether the Action be <hi>Feigned</hi> or <hi>Real,</hi> the Prisoner hath no remedy at all for such Arrest, wrong,
+<pb n="6" facs="tcp:65889:5"/> oppression, imprisonment, losse of Credit and Damage sustained in his Estate, it may be to the Ruine of him, his Wife, and Family.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, the words of the Action for Debt, is but a Surmise,<note place="margin">
+                  <hi>(The words)</hi> Debet ut dicit.</note> and it is a most desperate thing for a man to be a<g ref="char:EOLhyphen"/>ctually imprisoned upon a Surmise onely.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly Arrests and Imprisoments take away all industry and endeavours from all men, and by the want of mens Liberties the Kingdome sustaines great damage, The parts and abilities of mens minds and Bodies, in their seve<g ref="char:EOLhyphen"/>ral Capacities, being stifled, and buried a live in Dungeons, and loathsome Prisons; Whereas mens Liberties, and in<g ref="char:EOLhyphen"/>dustries hath enabled thousands of men to pay their Debts, and raise their Fortunes, which by restraint had been im<g ref="char:EOLhyphen"/>possible: Imprisoning and immuring of men, fitting them only to have all they have torn from them to satisfie the Cruelty of Jaylors, their Adherents, and dependants; for whilst a prisoner hath money, he may do what he list; But when all is gone, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n is he put into the Common Jayle, and there buried alive; And if a poor labouring man, or Tradesman borrow or become engaged for ten or twenty pounds more or less upon his own security, or o<g ref="char:EOLhyphen"/>therwise, by his Liberty and Freedom to follow his Calling, or Labour, perhaps earns thirty or forty pounds a year; and is hereby enabled to disingage, and make payment of his Debts, and to provide for his Family whilst he is so at Li<g ref="char:EOLhyphen"/>berty; But when once Arrested and cast into Prison, his Credit is lost, his endeavors in his Calling, and Labour taken from him, and suddenly bereft of all he hath, and himself Wife and Children left to perish by beggery and misery; which poor man before his Arrest and Imprison<g ref="char:EOLhyphen"/>ment was able by his Liberty, Labour, and endeavor to have maintained his Credit, paid his Debts, and provided for his Wife and Children.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, Arrests are dangerous in the consequents, for many times men (being sensible of the sad effects that Im<g ref="char:EOLhyphen"/>prisonment
+<pb n="7" facs="tcp:65889:5"/> doth produce) do fortify themselves against the same, and there upon Murthers and Man slaughters do happen to the ablest of men, both for parts, estates and qua<g ref="char:EOLhyphen"/>lities, and thereby become subject to the force, rudeness, and vilest usage of the worst of men, merciless, and cruel, for Bayliffs, Serjeants, and Marshals men, regard neither Age, Sex. nor condition, or quality, for that the Arrest and violent attempts made to enslave men, serves onely to en<g ref="char:EOLhyphen"/>rich Under-Sheriffs, Bayliffs, Serjeants, Catchpoles, Jaylors, and such like, and for maintenance of their Ryot, Exces<g ref="char:EOLhyphen"/>sive Drunkenness and Debauchery, for which cause they use all manner of cruelty, taking Bribes of all hands, buy<g ref="char:EOLhyphen"/>ing and selling both Creditor and Debtor for their own profits sake, apprizing and under-selling to their own uses for the tenth part of the worth of the poor Prisoners Goods and Chattels; So the greatest part being devoured by these Canibals, the Prisoner, and his Family is thereby utterly undone, and destroyed, and the Creditor, in all things (but his malice) left altogether unsatisfied.</p>
+            <p>Seventhly, Great damages are frequently recovered a<g ref="char:EOLhyphen"/>gainst Sheriffs and Jaylors upon Rescues, and escapes made,<note place="margin">Sheriffs and Jaylors un<g ref="char:EOLhyphen"/>done by es<g ref="char:EOLhyphen"/>capes and Rescues.</note> as every days experience brings forth.</p>
+            <p>Eightly charge a Prisoner in Execution, and <hi>No habeas Corpus</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>testificandum</hi> is admitted, or if you have a tryal such a day, and do fear the testimony of such a Person,<milestone type="tcpmilestone" unit="unspecified" n="8"/> Arrest him upon an Action of great value, that he may not find Bail, (besides the discredit he shall have) you have your ends, for he cannot come to testify; so that men by such practises are not onely buried alive as to themselves and Families as aforesaid to all purposes; But also as to all other Persons whatsoever, that necessarily may require their testimony upon ever so great concernment, either for life or estate.</p>
+            <p>Ninthly, What man of ever so great estate can tell, but <milestone type="tcpmilestone" unit="unspecified" n="9"/> that his Son or some heir of his estate, may either by their own Folly, <hi>Suretiships, Outlawry,</hi> or other Casualty, be un<g ref="char:EOLhyphen"/>done
+<pb n="8" facs="tcp:65889:6"/> and so made liable to the Law in practice, to a Jayle, &amp; all the deploreable miseries thereunto attending; Where<g ref="char:EOLhyphen"/>as had he the <hi>Heireship</hi> (that is) the Liberty of his Person by descent, he might by his Ingenious industry raise again his Name and Family in the World; but Imprisonment makes him utterly useless to himself, his <hi>Posterity,</hi> and the <hi>Generation</hi> wherein he lives: Therefore questionless, An <hi>Heirship</hi> of the Liberty of a mans Person, is fare better then the Descent of a great estate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> If no Imprisonment, then very few or no desperate Debts contracted, for who will then lend but upon pawn; If any do, it is at his own perill, And men having no Credit, because no pawn, must fall to Labour, and industry to get their living, Credit, and pawn; And this is the best way to remedy the <hi>Epidemical</hi> diseases of our time, (<hi>viz.</hi> Idleness, Beggery and Debauchery) for a great part of Prisoners are upon the score of Debauchery, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Take away Imprisonment, and there needs no <hi>Protections,</hi> which occasions often Murmurings, and sometimes abuses in Counterfeiting them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> If it be objected, no Credit, no Trade; 'tis answered, Trade must go on, And if Usurers will not trust, let they themselves venture their Stock at Sea and Land, but if they will not do that, but will venture upon the industry of other persons, let it not be to the suffering of the Per<g ref="char:EOLhyphen"/>sons whom they trust, who are (if good returns be made) their best Tenants and Servants.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> No man will deny but that where there is most trade, there is also most Debt contracted. The Town of <hi>Am<g ref="char:EOLhyphen"/>sterdam</hi> is one of the greatest Towns for Trading in <hi>Europe,</hi> and their Stock in Cash Great, so that interest there goes very Low, yet not the hundredth part of the Merchandize, so that all the rest goes upon trust: and yet few of the Debtors (proving insoluent) are Prisoners, except it be upon some Contempt, Their Policy or Mercy extends yet farther; for doth a man indebted, find himself decay<g ref="char:EOLhyphen"/>ing,
+<pb n="9" facs="tcp:65889:6"/> He goes to the <hi>Magistrate</hi> appointed for that purpose; And (upon <hi>Oath</hi>) delivers to him his estate, and full Ac<g ref="char:EOLhyphen"/>compt thereof, for the use of his Creditors; unlesse his Creditors prove him perjured, he is absolved from them; And what estate he can after acquire, is his own, and he left to make farther Payment, (which proves very often as his conscience directs.) By this means men are re<g ref="char:EOLhyphen"/>covered and enabled for the Good of themselves, re<g ref="char:EOLhyphen"/>lations, and Creditors, not buried a live in Noisome Jayles.</p>
+            <p>All Writs and Process in Law are truely intended for Remedy, and Redress, not for Revenge, Oppression, and Wrong; as the practice is now a dayes, and is it not monstrous in Nature and reason,<note place="margin">Nota.</note> That a man should be allowed a Replevin, to save his beast from starving in a Pound, and that man himself onely should be shut up in Prison to perish without Hope, or Relief.</p>
+         </div>
+         <div type="part">
+            <pb n="10" facs="tcp:65889:7"/>
+            <head>The mischiefs attending <hi>Outlawries</hi> transcend that of the <hi>Capias,</hi> Bills of <hi>Middlesex</hi> and <hi>La<g ref="char:EOLhyphen"/>titats,</hi> &amp;c.</head>
+            <p>
+               <note place="margin">Mir. Cap. <hi>1.</hi> Sect. <hi>3.</hi> Cap. <hi>5.</hi> Sect. <hi>1.</hi> Cook Inst. <hi>1.</hi> fol. <hi>1286.</hi>
+               </note>
+               <hi>OUtlawed</hi> Persons are said to be <hi>Utlegati,</hi> that is, <hi>Extra legem positi,</hi> deprived of the benefit of the Law, the Penalty whereof was great, and so great, that in the Reign of King <hi>Alfred,</hi> and a good while after the con<g ref="char:EOLhyphen"/>quest, no man could be <hi>Outlawed,</hi> but for Felony, the punishment whereof was death.</p>
+            <p>
+               <note place="margin">Cook <hi>2.</hi> Instant fol. <hi>46.</hi>
+               </note>In <hi>Bractons</hi> time and somewhat before; Process of Out<g ref="char:EOLhyphen"/>lawry was ordained to lie in all Actions, that were <hi>quare vi, &amp; Armis,</hi> which <hi>Bracton</hi> calleth <hi>Delicta,</hi> for there the King should have a Fine.</p>
+            <p>By divers Statutes since made, As the Imprisonment of mens persons by <hi>Capias,</hi>
+               <note place="margin">
+                  <hi>Cookes</hi> 1. <hi>Inst. f.</hi> 128. 6.</note> Bills of <hi>Middlesex, Latitats,</hi> and <hi>Capias ad satisfaciendum</hi> after judgement, hath by degrees crept in, to the alteration of the Common Law, in Actions of Accompt, Debts Detinue, Covenant, Actions upon the Statute of 5. <hi>Rich.</hi> 2.<note place="margin">Bract. lib. <hi>5.</hi> fol. <hi>421.</hi>
+               </note> And Actions upon the Case, and in divers other Common or Civil Actions: So Outlawries of mens Persons thereupon hath ensued;<note place="margin">1. All the Nobi<g ref="char:EOLhyphen"/>lity and Peers of the Realm, are liable to this as well as the Com<g ref="char:EOLhyphen"/>monalty; and the person of a Peer being Outlawed is liable to Ar<g ref="char:EOLhyphen"/>rests and re<g ref="char:EOLhyphen"/>straints, as well as the Commoners.</note> But the mischiefs that attended the Outlawry of mens Per<g ref="char:EOLhyphen"/>sons, do transcend those of Arrests and Imprisonments of mens Persons, For,</p>
+            <p>First, By Outlawries before and after judgement, the Debtor suffers more then in any other thing yet known in <hi>England,</hi> yea more then by Man-slaughter, or Petty Larceny; for in all these things the Subjects are al<g ref="char:EOLhyphen"/>lowed a defence, But for this none; In all Courts, and for all Actions, the Persons concerned, must have cogni<g ref="char:EOLhyphen"/>zance of the proceedings, something must be commit<g ref="char:EOLhyphen"/>ted: But an Outlawry (though supposititious and fi<g ref="char:EOLhyphen"/>ctitious) is sufficient alone to serve the turn; for the
+<pb n="11" facs="tcp:65889:7"/> destruction of the party Outlawed; The Delinquents in Criminal Acts, for some Causes, forfeit but Chattels, and personal estate onely, and for those a Pardon of course for suing out: But upon an Outlawry the Deb<g ref="char:EOLhyphen"/>tors Chattels and personal estate are wholly lost, and the real estate, seized and extended for the King (who is not six pence a year benefitted) nor the Creditors one far<g ref="char:EOLhyphen"/>thing. The mean profits not being in any part discoun<g ref="char:EOLhyphen"/>ted for the Debt; and yet the Outlawed Person destroy<g ref="char:EOLhyphen"/>ed, and all his Creditors defeated of their just Debts, if the Debt be small the cure is worse then the disease, If a great one, the Debtor is never able to give in securi<g ref="char:EOLhyphen"/>ty the Reverse the Outlawry, and free the Extent upon the Outlawry, but perishers inevitably,<note place="margin">Chequer Leases.</note> and not a penny of the Debt lessened to the Creditor, or abated to the Debtor; nor the Kings Majesty above 5. or 10. shs. a year enriched, and that consumed in Fees also.</p>
+            <p>The poor Outlawed Debtor can neither sue for,<note place="margin">2. 4. <hi>H.</hi> 7. 17. <hi>Brook utl.</hi> 41: <hi>Litt. Sect.</hi> 197. <hi>Cooks</hi> 1. <hi>Inst. fol.</hi> 128. 6.</note> nor recover any Debt, or Rent due to him; Or try any title, for recovery of any estate, or let any Lease, or make his last will and testament, or do any other Act to help him<g ref="char:EOLhyphen"/>self, or his Family after his death, neither can the Son reverse the Fathers Outlawry after his death; so that once Outlawed after judgement or otherwise, and the whole Family is ruined for ever, and none but Sheriffs, Bayliffs, and their Officers and appendants, one farthing the bet<g ref="char:EOLhyphen"/>ter, neither can the Outlawed person sue or impleade his Oppressor and all this for Debt, (which is no Crime,) And yet Criminous persons are not Subject to,<note place="margin">8 <hi>Edw.</hi> 4. 6.</note> or op<g ref="char:EOLhyphen"/>pressed with such merciless extremities, neither is it pos<g ref="char:EOLhyphen"/>sible for, or in the power of any man, how provident, or clear from Debt soever, to prevent and free himself from this snare and pitfall of destruction.</p>
+            <p>A Ward might call his <hi>Guardian</hi> to Accompt,<note place="margin">3. 18. <hi>Edw.</hi> 4. 4. <hi>Nichols Vil. Nichols pl.</hi> 487</note> and was priviledged from being sued in other Courts, and had Protection both of his Person and estate, but here is no
+<pb n="12" facs="tcp:65889:8"/> Accompt for profits, nor right for wrong, no Protection of person, bur oppression in all, and barred from all re<g ref="char:EOLhyphen"/>lief, and remedy (yea even so much as to complaine) so as the Mischief of the Outlawry transcends the <hi>Capias,</hi> in that the <hi>Capias</hi> attaches the person onely, the Out<g ref="char:EOLhyphen"/>lawry Body, Lands, and Goods.</p>
+            <p>
+               <note place="margin">4. S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Iohn Mit<g ref="char:EOLhyphen"/>chels <hi>Case.</hi>
+               </note>If two or three joyn to lend 100. <hi>l.</hi> or 1000. <hi>l.</hi> more or less to a third person and one of the Creditors Out<g ref="char:EOLhyphen"/>lawed (though perhaps unknown) the whole Debt is for<g ref="char:EOLhyphen"/>feited to the King, and the Debtor cannot pay any of the three or two, which lent the money, so that those that are not Outlawed have lost their money, and forfeited their Debt, aswell as he, that is Outlawed.</p>
+            <p>
+               <note place="margin">Contrary to justice, that he that hath not offended should be punished, eve<g ref="char:EOLhyphen"/>ry mans con<g ref="char:EOLhyphen"/>dition.</note>The like for Tenants in Common, if any of them be Outlawed, the whole estate of the other Tenants becomes forfeited and seized for him that is Outlawed, And the other Tennants not Outlawed shall have no remedy, nor can reverse the others Outlawry, being none of theirs; And any man may be Outlawed upon pretence of Debt, detinue, or Trespass, whether true, or false, and never know of it; the Outlawry may lie undiscovered, and the Person die under that danger to the destruction of his posterity.</p>
+            <p>
+               <note place="margin">5. 9. <hi>H.</hi> 6. 20. 49. <hi>E.</hi> 3. 5. 4. <hi>H.</hi> 7. 17. Forf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itures are in the King.</note>Forfeitures by Outlawes go to the Crown, without benefit to the party, whose satisfaction the Law intends; And the parties thus Outlawed, are without remedy a<g ref="char:EOLhyphen"/>gainst the party that doth the wrong, and without relief as to the King, for forfeited Goods and Chattels, if not <hi>(ex gratia)</hi> besides the injury done in fleecing these Goods by Bayliffs,<note place="margin">6. 38. <hi>E.</hi> 3. 22. 16. <hi>E.</hi> 4. 4. <hi>Brook utl.</hi> 17. 20. <hi>H.</hi> 20. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>H.</hi> 7. 13. <hi>Ass p.</hi> 5. 5. <hi>H.</hi> 6 20.</note> under-Sheriffs, <hi>&amp;c.</hi> who share with the King in the greatest proportion of such forfeitures.</p>
+            <p>Outlawries bring the freehold under seizure and ex<g ref="char:EOLhyphen"/>tents, and is exceeding chargeable to pleade unto, and to reverse, and the use which is made of seizures and ex<g ref="char:EOLhyphen"/>tents thereon, is known to be little available towards sati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>faction of Creditors their just Debts, but absolute
+<pb n="13" facs="tcp:65889:8"/> destruction to the Outlawed persons: The parties Out<g ref="char:EOLhyphen"/>lawed may be sued, but cannot sue for his own; Outlawries being disablement in Law; 'tis hard to pay where men can<g ref="char:EOLhyphen"/>not receive.</p>
+            <p>These mischiefs by the corruption of Practize have crept in under this Act of 25. <hi>Edw.</hi> 3.<note place="margin">The Act of 25. <hi>Edw.</hi> 3. repealed, save to Accompts to the King.</note> Notwithstanding upon complaint of the people in the 44th. year of the same King <hi>Edw.</hi> It was repealed, and the Subject remitted to their former Right, according to the Common Law, and <hi>Magna Charta,</hi> save onely for such as were Accomptants to the King.</p>
+            <p>It is not unknown to all judicious,<note place="margin">
+                  <hi>Cook</hi> 2. <hi>Inst. fol.</hi> 394. <hi>Vide Cooks part</hi> 2. 3. 12. 13. <hi>H.</hi> 4. 1.</note> that by the Common Law of this Nation no mans person could be Arrested in Debt or detinue, <hi>&amp;c.</hi> the Lands Goods. and chattels of the Debtor were onely liable to Execution, which the Law al<g ref="char:EOLhyphen"/>lowes for satisfaction of Creditors; And former times, in Cases, of Debt between Party and Party rested thereupon, the Person of the Debtor being in strict imprisonment payes not the Debt to the Creditor but most times serves the malice of the Creditor onely: And it cannot be denied that the Lords now living and (as Peers) freed from Arrests, yet pay their Debts out of their estates, as well, and better, then such as are prisoners can doe; which very president (obvious to all) makes it appear that imprisonment doth not advantage, but prejudice the Creditor, and serves onely to enrich the Jay<g ref="char:EOLhyphen"/>lors, &amp;c. By whom the prisoner is ruined: the foregoing mis<g ref="char:EOLhyphen"/>chiefs, troubles, Losses, oppressions and damages considered which doth daily happen by the villainors crew of Bayliffs, Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeants Jaylors, &amp;c. to the enslaving and oppression of the Subjects; And all derived from that Act of 25. <hi>Edw.</hi> 3.<note place="margin">Malebridg. cap. <hi>23.</hi>
+               </note> And how repugnant the present practice is to the known Laws of the Realm, it will plainly appear that this one Nation is impoverished yearly by Sheriffs, Bayliffs, Serjeants, Mar<g ref="char:EOLhyphen"/>shalls men, Process makers, <hi>Habeas Corpus,</hi> day Writs, rules, Waiters, keepers, Jaylors, Wardens, with Bribing Sheriffs their deputies and Bayliffs for intelligence, and forbearing of Ar<g ref="char:EOLhyphen"/>rests,
+<pb n="14" facs="tcp:65889:9"/> and persecutions besides the personal injuries and vil<g ref="char:EOLhyphen"/>lanies put upon men of all conditions by these tormentors more then one Million of pounds yearly in ready Coyn,<note place="margin">More then one Million of mony spent yearly to en<g ref="char:EOLhyphen"/>slave the Na<g ref="char:EOLhyphen"/>tion.</note> for which the Creditors are not the better one penny and were better saved towards their satisfaction.</p>
+            <p>In short, that the practice now on foot (upon the <hi>Capias</hi> Bills of <hi>Middlesex</hi> Latitats and Outlawries, may be the more triumphant to the enslaving of all, it speaks thus.</p>
+            <p>Outlaw a Nobleman and he is made incapable to sit in the House of Peers, till the Outlawry b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reversed, and may be Arrested as a Common person, being Outlawed, all his Goods and Chattels are forfeited, appraised, and sold by an under Sheriffe, and his real estate is brought under extent.</p>
+            <p>
+               <note place="margin">No Outlaw<g ref="char:EOLhyphen"/>ed person can be a Iustice of peace, Con<g ref="char:EOLhyphen"/>stable or ty<g ref="char:EOLhyphen"/>thing-man Church-war<g ref="char:EOLhyphen"/>den, or other Officer, or Iury-man.</note>Outlaw a Clergy man of what degree or Qualification so<g ref="char:EOLhyphen"/>ever, and his living and personal estate are both forfeited together, and by any under-Sheriff seized and sold as afore<g ref="char:EOLhyphen"/>said if he be in his Bailywick, and his person imprisoned if Arrested.</p>
+            <p>Outlaw a Gentleman and it is the same, his person and e<g ref="char:EOLhyphen"/>state both real and personal forfeited, and himself (if Arrested) a Prisoner.</p>
+            <p>Outlaw any Lawyer and he is made uncapeable to pleade at the Bar, his Person (if Arrested) imprisoned, and his estate both real and personal, the one extended, the other forfeited.</p>
+            <p>Outlaw any Citizen, rich in Stock, as a Merchant, Jewel<g ref="char:EOLhyphen"/>ler, Goldsmith or any other eminent Tradesman, what he hath is forfeited, and himself a prisoner, if arrested.</p>
+            <p>Outlaw any man, and he is liable to all scorne, scandalls and reproaches, to assault, Battery, Bastinadoe, and hazard of his life without remedy.</p>
+            <p>All men may be Arrested, and Outlawed under feigned actions, by created and suppositious a mes, to their utter un<g ref="char:EOLhyphen"/>doing, and never find out either Plantiff, or Attorney, to re<g ref="char:EOLhyphen"/>cover their damages.</p>
+            <p>Now the freeing, discharging and setting at Liberty all Prisoners now in Prison, and under restraint for Debt, and
+<pb n="15" facs="tcp:65889:9"/> the Repealing of this Act of the 25 of <hi>Edw.</hi> 3. and all o<g ref="char:EOLhyphen"/>thers, and the taking away all Arrests and Outlawries, and the sad consequents and effects thereof (so much contra<g ref="char:EOLhyphen"/>ry to <hi>Magna Charta,</hi> Petition of Right, and the Common Law elder then both,) is the matter aimed at, and humbly prayed for; that so the subjects may be remitted and restored to their former Laws <hi>ab origine;</hi> And its no new thing, when the continual Repealing in all Ages of divers Statutes, when found inconvenient, or against the Common Law, makes it manifest.</p>
+            <list>
+               <item>As, Tenure in Villinage.</item>
+               <item>Mortmaines on Abbies.</item>
+               <item>Knights Templers, and St. <hi>Johns.</hi>
+               </item>
+               <item>The Banishment of the Jews 9. <hi>Edw.</hi> 1.</item>
+               <item>The Courts of Wards &amp; Liveries, and divers others.</item>
+            </list>
+            <p>And it may be enacted that no person whatsoever for the future shall be arrested or out-lawed for any matter or thing whatsoever (not criminous) in the Act of 25<seg rend="sup">th</seg> of <hi>Edw.</hi> the 3. and other Acts contained, for the avoyding the manifold mischiefs aforesaid, and the sllavery in general introduced upon the whole Nation by the imprisonment of mens persons for Debt, may be abolished; Reserving to his Majesty all such Fees and other Profits upon Writs of <hi>Summons</hi> and other Process thereupon, as have been, or are payable upon the <hi>Ca<g ref="char:EOLhyphen"/>pias,</hi> Bills of Middlesex, Latitats &amp;c. without Diminution of any the Profits arising thereby to the Crown.</p>
+            <p>The deep sense his late Majesty (of ever blessed memory) had of the aforesaid Grievances, and many more his Peoples sufferings in the same sad condition made him intend to have recommended the condition and enlargement of Prisoners for Debt, and the abolishing of all Arrests &amp; Out-lawries for the future to the then Parliament, and can it be doubted that his now Majesty (whom God long preserve) is lesse sensible, that the same sad &amp; lamentable effects have of late with much great<g ref="char:EOLhyphen"/>er
+<pb n="16" facs="tcp:65889:10"/> Severity, and do yet attend and wait upon, or may in time happen to most men already fallen, or that may fall in<g ref="char:EOLhyphen"/>to and under Arrest and imprisonment.</p>
+            <p>Divers whereof have in the late intestine Warres not on<g ref="char:EOLhyphen"/>ly adventured their lives, but in the Casualties thereof, and for their Loyalty and faithful service to his late Majestie, and his Majestie that now is, have been forced to pawn, or Mortgage their Estates, &amp; (by the advantages taken thereupon for their forfeitures thereof) even to loose the same; The Ava<g ref="char:EOLhyphen"/>rice and Cruelty of most Creditours being such, as that they refuse to accept their Principal money with moderate in<g ref="char:EOLhyphen"/>terest.</p>
+            <p>And divers also, whose Estates (by the late Committes of <hi>Haberdashers-hall, Worcester</hi> and <hi>Drurie</hi> houses) were se<g ref="char:EOLhyphen"/>questred and sold and imbezled, being left to recover the same by due course of Law, are yet (after a verdict had, and judgement obtained, to be restored to their rightful posses<g ref="char:EOLhyphen"/>sions) defeated and kept out by Writs, pretending Error in the procedings and such other vexatious Delaies, on purpose to continue the Possession of their Estates to such as unjustly obtained the same as aforesaid; such is the Lot and Condi<g ref="char:EOLhyphen"/>tion of divers poor, loyal, distressed prisoners, by and under the Corruption of practise now used, whereby they have been, and are exposed to many grievous Wants in noisome Jayles and Prisons, where they are so used (if they want moneys to pay Fees or chamber rents, that most of all they either had, have, or may have, is or will be wrested from them,<note place="margin">The notori<g ref="char:EOLhyphen"/>ous Grievan<g ref="char:EOLhyphen"/>ces of <hi>Writs</hi> of Errour as now practised there being a<g ref="char:EOLhyphen"/>bove 1200 at this time brought a<g ref="char:EOLhyphen"/>gainst eje<g ref="char:EOLhyphen"/>ctors.</note> to the total ruine of themselves, their wives and chil<g ref="char:EOLhyphen"/>dren, contrary to the Laws of God, Nature, most Nations, <hi>Magna Charta,</hi> Petition of Right, and other the known Lawes of the Land.</p>
+            <p>And that the Exhorbitant abuses by Writs of Error now grown too freequent &amp; most intollerable as in the case above mentioned and many more, to the great Scandal and Re<g ref="char:EOLhyphen"/>proach of the Law, and the due practise thereof may be spee<g ref="char:EOLhyphen"/>dily enquired into and redressed, and that full and ample
+<pb n="17" facs="tcp:65889:10"/> Satisfaction for damages sustained thereby awarded to disabled Ejectors and others sustaining wrong therein. And that there may be an exemplary punishment inflicted on all dilatory, vexatious, and fraudulent practises of this kind and condition.</p>
+            <p>May it then please His Sacred <hi>MAJESTY,</hi> and great Council now assembled in Parliament to take the premisses into consideration, and that mens persons now charged in prison, and chargeable with no other Crime then poverty (occasioned for the most part, by the di<g ref="char:EOLhyphen"/>stractions, cruelties and slaveries aforesaid) may not be the onely persons cast off, and set by, as incapable either of Memory or mercy, and in their great wisdomes not only to provide against, and redress the greivances a<g ref="char:EOLhyphen"/>foresaid; But also establish some fit and ready expe<g ref="char:EOLhyphen"/>dient by Arbitration or otherwise to relieve and en<g ref="char:EOLhyphen"/>large the distressed condition of many poor prisoners as aforesaid as their several Causes and Cases may require; especially now in this day of <hi>Englands</hi> great Jubilee, and universal grace extended to all offenders and offences, That mens persons in durance for Debt, may be set at Liberty and all Arrests for the future taken away, that Imprisonment may not obstruct mens endeavours either at present or hereafter, but that they may have their Li<g ref="char:EOLhyphen"/>berty to imploy their industry, and improve their e<g ref="char:EOLhyphen"/>states for payment of their Debts as God shall enable them.</p>
+            <p>Considering withall how much Terror and sorrow of heart the people of this Realm in general, lie under, who now hide themselves, and languish to death under the fear of Imprisonment, and Arrest, consuming all their fortunes, not daring to shew themselves to Manage them to their best advantage, towards payment of their Debts, or otherwise for fear of Sheriffs, Bayliffs Ser<g ref="char:EOLhyphen"/>jeants, <hi>&amp;c.</hi> The Subjects and their posterities (by this means) being Subject to slavery, liable to all Arrests, Im<g ref="char:EOLhyphen"/>prisonments,
+<pb n="18" facs="tcp:65889:11"/> and Outlawries, and on all Accidents, to Beg<g ref="char:EOLhyphen"/>gery, and Bondage at every mans will and pleasure; on the contrary upon the passing of an Act of Grace in these particulars depends the Good and welfare of the people; The whole Nation being manumitted and enfranchised in their persons, restored in Laws, secured in estates, and of a base, and slavish Nation made Noble and free, as they were before the Act of the 25th of <hi>Edw.</hi> the 3. was had.</p>
+            <p>To conclude if Traytors and Felons of all sorts expect remission and Pardon of their offences upon the blessed restauration of his Sacred <hi>Majesty;</hi> How is it to be doubt<g ref="char:EOLhyphen"/>ed, but that the good Subjects of this Land and Nation (not Criminous) shall find remedy and redresse and be relieved from their sad and Lamentable Thraldome and Bondage, especially when the known Law or Equity af<g ref="char:EOLhyphen"/>fords the Creditor, power, for recovery of his just Debts upon the Debtors real and personal estate, which is at the dispose of the Creditor for his satisfaction. And this one Act of Grace will be accounted by all good men, and their posterities a sufficient recompence for all the Subjects part sufferings, being the greatest Mercy that ever King of <hi>England</hi> extended to his subjects since they were a Kingdome.</p>
+            <p>The reasons offered against these grand mischiefs are to move the Charity and relief, not the dispute of our Superiours in Authority: when the righteous are in Au<g ref="char:EOLhyphen"/>thority,<note place="margin">Many espe<g ref="char:EOLhyphen"/>cially those that were thrown out of their e<g ref="char:EOLhyphen"/>states by the illegall Or<g ref="char:EOLhyphen"/>ders of those called the Commitee of obstructions, lost their Crops and profits with their estates.</note> the people rejoyce, they consider the Cause of the poor, the Prisoners and oppressed, but the wicked regard it not; when the wicked beare rule, the people mourn.</p>
+            <p>These are the sad Grievances of the Bills of <hi>Middlesex, Latitats, Capias,</hi> Outlawries and <hi>Writs of Errour,</hi> all which,
+<pb n="19" facs="tcp:65889:11"/> though the <hi>last of all</hi> at this time (before the Crop is off the ground,<note place="margin">☜</note>) most requires both serious consideration and present remedy; least <hi>injustice</hi> and oppression prevail, and for want of timely relief divers persons with their Fa<g ref="char:EOLhyphen"/>milies be not onely undone but inevitably perish.</p>
+            <trailer>Det Deus his quoque finem.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
